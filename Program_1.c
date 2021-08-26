@@ -1,7 +1,7 @@
 /* Program_1 : Area and Perimeter of the rectangle
    DOC : 26/08/2021
    Author : Premkumar
-   Purpose : To calculate Area and Perimeter of the rectaiangle
+   Purpose : To calculate Area and Perimeter of the rectangle
    */
 
 #include <stdio.h>
