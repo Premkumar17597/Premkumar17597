@@ -1,4 +1,4 @@
-/* Program_2 : Time converter
+/* Program_3 : Time converter
    DOC : 31/08/2021
    Author : Premkumar
    Purpose : Challenge to convert time to years and days
